@@ -1,4 +1,4 @@
-# Accelerating Error Correction Code Transformers
+# Sys. Accelerating Error Correction Code Transformers
 
 ## Install
 `pip install -r requirements.txt`
